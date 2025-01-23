@@ -10,3 +10,12 @@ ___
 ___
 ![imgsin](.img/pg4.png)
 ___
+
+
+# !!!
+```bash
+cd FunctionGraph
+```
+```bash
+pip install numpy matplotlib
+```
