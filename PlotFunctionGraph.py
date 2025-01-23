@@ -40,7 +40,7 @@ def pg(func, x_min, x_max, y_min, y_max):
 
     color = next(color_cycle)
     ax.plot(x, y, label=func, color=color)
-    ax.set_title(f'График функции {func}')
+    ax.set_title(f'{func}')
     ax.set_xlabel('x')
     ax.set_ylabel('y')
 
