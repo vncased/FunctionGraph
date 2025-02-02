@@ -4,7 +4,10 @@ ____
 ___
 ![sin](.img/sin.png)
 ___
-# !!!
+### about
+"+"/"-" zoom 
+___
+# ! -- !
 ```bash
 cd FunctionGraph
 ```
