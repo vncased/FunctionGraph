@@ -1,5 +1,5 @@
 # FunctionGraph
-
+![tan](.img/tan.png)
 
 
 # !!!
