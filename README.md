@@ -2,7 +2,7 @@
 ____
 ![tan](.img/tan.png)
 ___
-![sin](.img/cos.png)
+![sin](.img/sin.png)
 ___
 # !!!
 ```bash
