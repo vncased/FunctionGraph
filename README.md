@@ -8,6 +8,10 @@ ___
 "+"/"-" zoom 
 ___
 # ! -- !
+
+```bash
+git clone https://github.com/yinmus/FunctionGraph.git
+```
 ```bash
 cd FunctionGraph
 ```
