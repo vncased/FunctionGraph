@@ -18,3 +18,6 @@ cd FunctionGraph
 ```bash
 pip install numpy matplotlib
 ```
+```bash
+python PlotFunctionGraph.py
+```
