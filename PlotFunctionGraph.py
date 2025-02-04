@@ -1,3 +1,8 @@
+import os
+import sys
+sys.stderr = open(os.devnull, 'w')
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from tkinter import *
